@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header
       id="header"
-      className="  d-flex  justify-content-center align-items-center sticky-sm-top "
+      className="  d-flex  justify-content-center align-items-center sticky-top "
       style={{ backgroundColor: "#F2821A" }}
     >
       <div className="container">
